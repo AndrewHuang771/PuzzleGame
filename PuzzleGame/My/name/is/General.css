@@ -1,0 +1,55 @@
+﻿body {
+   background-color:black;
+}
+
+p {
+   color:white;
+   text-align:center
+}
+
+img {
+   display:block;
+   margin:0 auto;
+}
+
+div {
+   text-align:center;
+}
+
+a {
+   text-decoration:none;
+   color:white;
+   text-align:center;
+}
+
+
+#riddler {
+   color:#00ace6;
+}
+
+#riddle {
+   color:#ff1a1a;
+}
+
+#wither {
+   color:#009933;
+}
+
+#null {
+   font-family:Courier;
+   color:grey;
+}
+
+#lower {
+   display:block;
+   margin-top:200px;
+}
+
+#fireflies {
+   color:orange;
+}
+
+#giant {
+   font-size:10em;
+   color:#91c21b;
+}
